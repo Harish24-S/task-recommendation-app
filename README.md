@@ -1,13 +1,8 @@
 # Task Manager
 
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
-![GitHub](https://img.shields.io/github/license/rajarsheechatterjee/task-manager)
 
 A cross-platform task manager application built with React Native (Expo CLI)
-
-## Download
-
-Get the app from our [releases page](https://github.com/rajarsheechatterjee/task-manager/releases).
 
 ## Screeshots
 
@@ -34,7 +29,7 @@ Get the app from our [releases page](https://github.com/rajarsheechatterjee/task
 On the terminal run the following commands
 
 ```sh
-$ git clone https://github.com/rajarsheechatterjee/task-manager.git
+$ git clone 
 
 $ cd task-manager
 
@@ -44,7 +39,3 @@ $ expo start
 
 ```
 
-## License
-
-[MIT ](https://github.com/rajarsheechatterjee/task-manager
-/blob/master/LICENSE)
