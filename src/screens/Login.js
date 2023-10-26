@@ -13,6 +13,7 @@ import Colors from "../theming/colors";
 
 import { loginUser } from "../utils/firebase";
 
+
 export default function LoginScreen({ navigation }) {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -26,6 +27,7 @@ export default function LoginScreen({ navigation }) {
         }, 2000);
     };
 
+    
     return (
         <View style={styles.wrapper} behavior="padding">
             <View style={styles.scrollViewWrapper}>
