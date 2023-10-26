@@ -18,10 +18,6 @@ A cross-platform task manager application built with React Native (Expo CLI)
 -   [x] All data is stored on cloud storage
 -   [x] Light and dark themes
 
-## Todo (In Progress)
-
--   [ ] Build a web client to sync tasks across devices
-
 ## Get Started
 
 #### 1. Clone the Repo
