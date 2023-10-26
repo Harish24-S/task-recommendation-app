@@ -29,6 +29,7 @@ export const priorityColor = (priority) => {
     }
 };
 
+
 export const priorityTextColor = (priority) => {
     if (priority === 1) {
         return {

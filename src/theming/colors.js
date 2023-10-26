@@ -11,6 +11,8 @@ const lightTheme = {
     deleteColor: "#E53935",
 };
 
+
+
 // const darkTheme = {
 //     textColor: "#A80000",
 //     iconColor: "#ffffff",
